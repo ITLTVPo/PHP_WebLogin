@@ -1,0 +1,7 @@
+form {
+	display: flex;
+	flex-direction: column;
+	width: 30vw;
+	height: 30vh;
+	justify-content:space-around;
+}
